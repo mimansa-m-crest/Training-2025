@@ -1,0 +1,6 @@
+booking_id,username,flight_id,seats_booked,total_price
+booking_id,username,flight_id,seats_booked,total_price
+username,flight_id
+2a43eecf,kenil,14,2,680.0
+84fc628d,Mimansa,15,2,690.0
+cc7821a8,Dishant,4,2,550.0
